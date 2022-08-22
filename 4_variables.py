@@ -1,0 +1,5 @@
+"""i_am_a_variable is a valid variable name"""
+"""I_am_a_variable is a valid variable name"""
+"""i_am_a_variable 2is a valid variable name"""
+"""1_is_a_variable is an *****invalid**** variable name"""
+"""apple_&_oranges is an *****invalid**** variable name"""

@@ -1,0 +1,2 @@
+file_count={ "jpg": 10, "txt":34, "py": 12, "cpp": 87}          #A dictionary consists of 'key' and its 'value' both seperated by a colon(:). for example, here 'key' is "jpg" and its 'value' is 10.   each set of key and values are then seperated by a comma(,).
+print(file_count)
